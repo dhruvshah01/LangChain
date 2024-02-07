@@ -3,8 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#constraints.py
-constraints.py
+#constants.py
+constants.py
 
 # C extensions
 *.so
